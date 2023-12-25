@@ -8,7 +8,7 @@ string grade( ){
     int x = rand()%9;
     if(x == 0) return "A";
     else if(x == 1) return "B+";
-    else if(x == 2) return "B+";
+    else if(x == 2) return "B";
     else if(x == 3) return "C+";
     else if(x == 4) return "C";
     else if(x == 5) return "D+";
